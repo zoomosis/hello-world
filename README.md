@@ -1,3 +1,3 @@
-# hello-world
+# test
 
-A repository for "Hello world".
+A repository for testing.
